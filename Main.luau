@@ -1,7 +1,7 @@
 --!strict
 --=============================================================================
 -- [!] PROJECT TARTARUS - VIP KERNEL INJECTOR V9.9
--- [!] AUTHOR: xX_D4RK_SH4D0W_Xx
+-- [!] AUTHOR: Chickedream
 -- [!] WARNING: HIGHLY ILLEGAL. USE AT YOUR OWN RISK.
 --=============================================================================
 
